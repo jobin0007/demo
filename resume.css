@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.container{
+    width: 900px;
+}
+.ad{
+    height:109px;
+    background-color: rgb(39, 60, 71);
+}
+
+.eo {
+    height: 167px;
+    width: 135px;
+    margin-top: -85px;
+    margin-left: 47px;
+    border-radius: 11px;
+}
+.fl{
+    background-color: whitesmoke;
+}
+.mu{
+    background-color: rgb(218, 224, 227);
+}
+.mw{
+    margin-left: 317px;
+    position: absolute;
+    margin-top: 22px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+.em{
+    margin-left: 113px;
+    margin-top: 20px;
+}
+.dl{
+    margin-left: 86px;
+    margin-top: 10px;
+}
+.ea{
+    margin-left: 108px;
+    margin-top: 10px;
+}
+.ap{
+    margin-left: 47px;
+    margin-top: 10px;
+}
+.aq{
+    margin-left: 108px;
+    margin-top: 10px; 
+}
+.fe{
+    margin-left: 32px;
+    margin-top: 10px; 
+}
+.sl{
+    margin-left: 102px;
+    margin-top: 10px; 
+}
+.ah{
+    margin-left: 64px;
+    margin-top: 11px; 
+}
+.sm{
+    margin-left: 30px;
+    border-bottom: 1px solid #707070;
+}
+ 
+
+.qp{
+    height:30px;
+    width:115px;
+    margin-left: 68px;
+    margin-top: 20px;
+    border-bottom: 1px solid #707070;
+    display: flex;
+
+}
+.en{
+    margin-left:0px;
+}
+.fx{
+    margin-left: 30px;
+    border-bottom: 1px solid #707070;
+}
+.ab{
+margin-left: 30px;
+border-bottom: 1px solid #707070;
+}
